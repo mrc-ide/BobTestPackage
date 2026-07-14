@@ -60,5 +60,7 @@ foo <- function() {
 #' @export
 power_detect <- function(n, p) {
   1 - (1 - p)^n
+  sdkjfksdf
+  'ldf'l;s'dfl'sld;'f;lsd'
 }
 
