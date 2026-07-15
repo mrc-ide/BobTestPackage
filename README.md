@@ -4,6 +4,7 @@
 <!-- badges: start -->
 [![checks_main](https://github.com/mrc-ide/BobTestPackage/actions/workflows/checks_main.yaml/badge.svg)](https://github.com/mrc-ide/BobTestPackage/actions/workflows/checks_main.yaml)
 [![checks_develop](https://github.com/mrc-ide/BobTestPackage/actions/workflows/checks_develop.yaml/badge.svg)](https://github.com/mrc-ide/BobTestPackage/actions/workflows/checks_develop.yaml)
+[![Codecov test coverage](https://codecov.io/gh/mrc-ide/BobTestPackage/branch/main/graph/badge.svg)](https://app.codecov.io/gh/mrc-ide/BobTestPackage?branch=main)
 <!-- badges: end -->
 
 The goal of BobTestPackage is to ...
