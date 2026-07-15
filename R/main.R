@@ -59,6 +59,9 @@ foo <- function() {
 #'
 #' @export
 power_detect <- function(n, p) {
+  checkmate::assert_integerish(n, lower = 0, any.missing = TRUE)
+  checkmate::assert_numeric(p, lower = 0, upper = 1, any.missing = TRUE)
+
   1 - (1 - p)^n
 }
 
